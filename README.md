@@ -17,4 +17,5 @@ Uncover insights into employee turnover patterns and reasons for attrition. Use 
 Navigate complex HR data effortlessly with an intuitive and user-friendly dashboard interface.
 ## Actionable Insights:
  Transform raw data into actionable insights with colorful charts and graphs that provide clear visual representations of workforce dynamics.
+ 
 With Organizational Pulse, you'll have the tools you need to monitor and optimize your organization's most valuable asset—its people.
