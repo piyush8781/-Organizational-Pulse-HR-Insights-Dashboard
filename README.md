@@ -19,3 +19,4 @@ Navigate complex HR data effortlessly with an intuitive and user-friendly dashbo
  Transform raw data into actionable insights with colorful charts and graphs that provide clear visual representations of workforce dynamics.
  
 With Organizational Pulse, you'll have the tools you need to monitor and optimize your organization's most valuable asset—its people.
+[Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiMDYwNzJhYWEtMWEyYS00YTdjLWJjZjMtYWMyYmM3NDdmYmE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
